@@ -1,6 +1,4 @@
- //Proyecto Estructura de Datos
-  //Entrega 1
-  //Integrantes: Natalia Alexandra Jiménez Cañas - Miguel Ángel Laiton Ruiz - Katheryn Sofia Guasca Chavarro
+
 
   #include <iostream>
   #include <fstream>
